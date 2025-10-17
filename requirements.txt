@@ -1,0 +1,5 @@
+langgraph
+tavily-api  # replace with actual package name if different
+openai
+python-dotenv
+notebook
